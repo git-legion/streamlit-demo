@@ -48,3 +48,5 @@ jobs:
             --restart always \
             ${{ secrets.DOCKER_USERNAME }}/streamlit-demo:latest
 
+
+
